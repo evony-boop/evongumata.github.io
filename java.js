@@ -3,8 +3,9 @@ function login() {
   let pass = document.getElementById("password").value;
 
   if (user === "admin" && pass === "faith") {
-    window.location.href = "home.html";
+    window.location.href = "index.html";
   } else {
     alert("Invalid login. Try admin / faith");
   }
+
 }
