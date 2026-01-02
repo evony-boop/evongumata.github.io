@@ -81,7 +81,7 @@ nav a:hover {
 }
 
 .content {
-    background: white;
+    background: pink;
     margin: 30px auto;
     padding: 25px;
     width: 80%;
@@ -119,4 +119,5 @@ footer {
     padding: 12px;
     margin-top: 40px;
     font-size: 14px;
+
 }
